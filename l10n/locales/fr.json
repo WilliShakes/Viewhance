@@ -225,7 +225,7 @@
 		},
 		"scPixelate": {
 			"#": 0,
-			">": "Pixeliser l'image"
+			">": "Activer/Désactiver l'algorythme de redimensionnement (Interpolation)"
 		},
 		"scReset": {
 			"#": 0,
